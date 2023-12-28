@@ -12,4 +12,4 @@ metadata:
 spec:
   holderIdentity: sharmag-k8s-master-pnad30.englab.juniper.net
   leaseDurationSeconds: 40
-  renewTime: "2023-12-28T08:04:15.273273Z"
+  renewTime: "2023-12-28T08:04:25.572158Z"
