@@ -1,7 +1,7 @@
 apiVersion: events.k8s.io/v1
-deprecatedCount: 5361
+deprecatedCount: 5501
 deprecatedFirstTimestamp: "2023-12-27T09:47:49Z"
-deprecatedLastTimestamp: "2023-12-28T08:07:52Z"
+deprecatedLastTimestamp: "2023-12-28T08:42:52Z"
 deprecatedSource:
   component: persistentvolume-controller
 eventTime: null
