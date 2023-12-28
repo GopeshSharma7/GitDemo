@@ -12,4 +12,4 @@ metadata:
 spec:
   holderIdentity: minikube
   leaseDurationSeconds: 40
-  renewTime: "2023-12-28T05:19:43.094111Z"
+  renewTime: "2023-12-28T05:19:53.450384Z"
